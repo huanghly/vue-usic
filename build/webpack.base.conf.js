@@ -32,7 +32,7 @@ module.exports = {
       : config.dev.assetsPublicPath
   },
   resolve: {
-    extensions: ['.js', '.vue', '.json','.less'],
+    extensions: ['.js', '.vue', '.json'],
     alias: {
       'vue$': 'vue/dist/vue.esm.js',
       '@': resolve('src'),
@@ -48,8 +48,7 @@ module.exports = {
       },
       {
         test: /\.less$/,
-        loader: 'vue-loader',
-        options: vueLoaderConfig
+        loader: "style-loader!css-loader!less-loader"
       },
       {
         test: /\.js$/,

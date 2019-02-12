@@ -1,0 +1,690 @@
+jsonCallback([{
+	"GroupID": 0,
+	"GroupName": "QQ音乐巅峰榜",
+	"List": [{
+		"ListName": "巅峰榜·流行指数",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64072.png",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64073.png",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/257688.jpg",
+		"listennum": 19900000,
+		"pic": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64070.png",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/257681.png",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64065.png",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64071.png",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000WxUCt0kIm7K.jpg",
+		"showtime": "2019-01-30",
+		"songlist": [{
+			"singerid": 1186444,
+			"singername": "ANU",
+			"songid": 228051852,
+			"songname": "FLY"
+		}, {
+			"singerid": 2241311,
+			"singername": "摩登兄弟刘宇宁",
+			"songid": 228051846,
+			"songname": "像我这样的人"
+		}, {
+			"singerid": 96,
+			"singername": "周华健",
+			"songid": 226040535,
+			"songname": "迷途"
+		}],
+		"topID": 4,
+		"type": 0,
+		"update_key": "2019-01-30"
+	}, {
+		"ListName": "巅峰榜·热歌",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172909.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172903.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820174954.jpg",
+		"listennum": 19300000,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172838.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172850.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172810.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172844.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002fxU2E4TLYMr.jpg",
+		"showtime": "2019-01-24",
+		"songlist": [{
+			"singerid": 24833,
+			"singername": "胡夏/郁可唯",
+			"songid": 225716644,
+			"songname": "知否知否"
+		}, {
+			"singerid": 13948,
+			"singername": "G.E.M. 邓紫棋",
+			"songid": 200255722,
+			"songname": "光年之外"
+		}, {
+			"singerid": 19329,
+			"singername": "李玉刚",
+			"songid": 106696579,
+			"songname": "清明上河图"
+		}],
+		"topID": 26,
+		"type": 0,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "巅峰榜·新歌",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172435.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172427.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820174934.jpg",
+		"listennum": 15553600,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172358.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172414.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172242.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172404.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000014Eu1v2tCm56.jpg",
+		"showtime": "2019-01-30",
+		"songlist": [{
+			"singerid": 4404,
+			"singername": "Westlife",
+			"songid": 227421351,
+			"songname": "Hello My Love"
+		}, {
+			"singerid": 19624,
+			"singername": "郁可唯",
+			"songid": 228008168,
+			"songname": "知否知否 (女声版)"
+		}, {
+			"singerid": 2169599,
+			"singername": "火箭少女101",
+			"songid": 228067708,
+			"songname": "银河系Disco"
+		}],
+		"topID": 27,
+		"type": 0,
+		"update_key": "2019-01-30"
+	}, {
+		"ListName": "说唱榜",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/test_order_channel_hitlist_con/701148.png",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/test_order_channel_hitlist_con/701148.png",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/test_order_channel_hitlist_con/701148.png",
+		"listennum": 7145460,
+		"pic": "http://y.gtimg.cn/music/common/upload/test_order_channel_hitlist_con/701148.png",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/test_order_channel_hitlist_con/701148.png",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/test_order_channel_hitlist_con/701148.png",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/test_order_channel_hitlist_con/701148.png",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002ksmT007T5O9.jpg",
+		"showtime": "2019-01-24",
+		"songlist": [{
+			"singerid": 179603,
+			"singername": "王嘉尔/ICE",
+			"songid": 227715517,
+			"songname": "Red"
+		}, {
+			"singerid": 1121441,
+			"singername": "GAI",
+			"songid": 227872058,
+			"songname": "在下霍元甲"
+		}, {
+			"singerid": 1121441,
+			"singername": "GAI/艾热",
+			"songid": 226743554,
+			"songname": "永不独行"
+		}],
+		"topID": 58,
+		"type": 0,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "巅峰榜·网络歌曲",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/47905.png",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/47904.png",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/47907.jpg",
+		"listennum": 18892624,
+		"pic": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/47900.png",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/47902.png",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/47895.png",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/47901.png",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003a4wfX0d1fSN.jpg",
+		"showtime": "2019-01-24",
+		"songlist": [{
+			"singerid": 1103924,
+			"singername": "曲肖冰",
+			"songid": 226739530,
+			"songname": "天亮以前说再见"
+		}, {
+			"singerid": 2754863,
+			"singername": "221小伙伴",
+			"songid": 223917676,
+			"songname": "遥远的你 (正式版)"
+		}, {
+			"singerid": 1327483,
+			"singername": "艾辰",
+			"songid": 227856419,
+			"songname": "你是我的眼"
+		}],
+		"topID": 28,
+		"type": 0,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "巅峰榜·内地",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519103525.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519103517.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160224140534.jpg",
+		"listennum": 4044520,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519103424.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519103458.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519103301.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707142719.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004Elrhm4GIPvr.jpg",
+		"showtime": "2019-01-24",
+		"songlist": [{
+			"singerid": 24833,
+			"singername": "胡夏/郁可唯",
+			"songid": 225716644,
+			"songname": "知否知否"
+		}, {
+			"singerid": 5062,
+			"singername": "薛之谦",
+			"songid": 225584334,
+			"songname": "天份"
+		}, {
+			"singerid": 13,
+			"singername": "成龙/蔡徐坤",
+			"songid": 227824333,
+			"songname": "一起笑出来 (贺岁版)"
+		}],
+		"topID": 5,
+		"type": 0,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "巅峰榜·港台",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519103855.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519103844.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160224140552.jpg",
+		"listennum": 1970000,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519103825.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519103832.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519103756.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707142704.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003hzHTV4fwGq0.jpg",
+		"showtime": "2019-01-24",
+		"songlist": [{
+			"singerid": 6617,
+			"singername": "阿信",
+			"songid": 227829393,
+			"songname": "一半人生"
+		}, {
+			"singerid": 146,
+			"singername": "谢霆锋/王嘉尔",
+			"songid": 227992755,
+			"songname": "深渊"
+		}, {
+			"singerid": 6028,
+			"singername": "A-Lin",
+			"songid": 227796538,
+			"songname": "雨后彩虹"
+		}],
+		"topID": 6,
+		"type": 0,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "巅峰榜·欧美",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519104205.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519104155.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160224140905.jpg",
+		"listennum": 9700000,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519104119.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519104128.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519104015.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707170348.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000018oZIv4XvOIb.jpg",
+		"showtime": "2019-01-24",
+		"songlist": [{
+			"singerid": 4404,
+			"singername": "Westlife",
+			"songid": 227421351,
+			"songname": "Hello My Love"
+		}, {
+			"singerid": 38418,
+			"singername": "Ariana Grande",
+			"songid": 227975948,
+			"songname": "7 rings (Explicit)"
+		}, {
+			"singerid": 157918,
+			"singername": "Sam Smith/Normani",
+			"songid": 227508475,
+			"songname": "Dancing With A Stranger"
+		}],
+		"topID": 3,
+		"type": 0,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "巅峰榜·韩国",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519105107.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519105102.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160224144052.jpg",
+		"listennum": 4304480,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140724145034.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519105057.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519105037.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140711163050.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000044nDCB1oDgHT.jpg",
+		"showtime": "2019-01-24",
+		"songlist": [{
+			"singerid": 167772,
+			"singername": "로꼬 (Loco)/유성은 (俞胜恩)",
+			"songid": 227980095,
+			"songname": "별 (星)"
+		}, {
+			"singerid": 23360,
+			"singername": "이소라 (李素罗)/SUGA (슈가)",
+			"songid": 228003567,
+			"songname": "신청곡"
+		}, {
+			"singerid": 40424,
+			"singername": "에일리 (Ailee)",
+			"songid": 227980122,
+			"songname": "Is You"
+		}],
+		"topID": 16,
+		"type": 0,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "巅峰榜·影视金曲",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20151028110641.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20151028110639.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160224144157.jpg",
+		"listennum": 2295820,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20151028110605.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20151028110615.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20151028110527.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20151028110613.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003Iv2s817shea.jpg",
+		"showtime": "2019-01-17",
+		"songlist": [{
+			"singerid": 24833,
+			"singername": "胡夏/郁可唯",
+			"songid": 225716644,
+			"songname": "知否知否"
+		}, {
+			"singerid": 199509,
+			"singername": "周深",
+			"songid": 227067010,
+			"songname": "随风"
+		}, {
+			"singerid": 24833,
+			"singername": "胡夏",
+			"songid": 226894000,
+			"songname": "只问你肯不肯"
+		}],
+		"topID": 29,
+		"type": 0,
+		"update_key": "2019_2"
+	}, {
+		"ListName": "巅峰榜·日本",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519105848.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519105842.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160224144534.jpg",
+		"listennum": 1595280,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519105818.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519105828.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519105750.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707142535.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003IfeQ11b3UK8.jpg",
+		"showtime": "2019-01-24",
+		"songlist": [{
+			"singerid": 5087,
+			"singername": "宇多田ヒカル (宇多田光)/Skrillex",
+			"songid": 226056804,
+			"songname": "Face My Fears (Japanese Version)"
+		}, {
+			"singerid": 365864,
+			"singername": "majiko (まじ娘)",
+			"songid": 228007770,
+			"songname": "ミミズ (蚯蚓)"
+		}, {
+			"singerid": 5087,
+			"singername": "宇多田ヒカル (宇多田光)",
+			"songid": 226056801,
+			"songname": "Don't Think Twice"
+		}],
+		"topID": 17,
+		"type": 0,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "巅峰榜·MV",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519111257.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519111249.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160224145116.jpg",
+		"listennum": 364547,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519111213.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519111221.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519111157.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707142644.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000OgDNK3Ja8r5.jpg",
+		"showtime": "",
+		"songlist": [{
+			"singerid": 1016794,
+			"singername": "蔡徐坤",
+			"songname": "Wait Wait Wait"
+		}, {
+			"singerid": 2096528,
+			"singername": "陈立农",
+			"songname": "我是你的"
+		}, {
+			"singerid": 5062,
+			"singername": "薛之谦",
+			"songname": "那是你离开了北京的生活"
+		}],
+		"topID": 201,
+		"type": 0,
+		"update_key": ""
+	}, {
+		"ListName": "巅峰榜·腾讯音乐人原创榜",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/141219.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/141220.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/141222.jpg",
+		"listennum": 1069915,
+		"pic": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/141216.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/141218.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/141213.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/141217.png",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001QJBZy26ghhx.jpg",
+		"showtime": "2019-01-30",
+		"songlist": [{
+			"singerid": 158119,
+			"singername": "尧十三",
+			"songid": 227863219,
+			"songname": "很久"
+		}, {
+			"singerid": 183559,
+			"singername": "海鸥乐队",
+			"songid": 227075663,
+			"songname": "不再孤单"
+		}, {
+			"singerid": 1360249,
+			"singername": "陈硕子",
+			"songid": 226148222,
+			"songname": "这世界再没有你了"
+		}],
+		"topID": 52,
+		"type": 0,
+		"update_key": "2019_4"
+	}, {
+		"ListName": "巅峰榜·K歌金曲",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34151.png",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34152.png",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34154.png",
+		"listennum": 3112300,
+		"pic": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34148.png",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34150.png",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34143.png",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34149.png",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004ZhgWY4Pesfy.jpg",
+		"showtime": "2019-01-24",
+		"songlist": [{
+			"singerid": 2079931,
+			"singername": "大天使 icey",
+			"songid": 227078190,
+			"songname": "知否知否"
+		}, {
+			"singerid": 3005777,
+			"singername": "朴爱源",
+			"songid": 228013536,
+			"songname": "不为谁而作的歌"
+		}, {
+			"singerid": 1306873,
+			"singername": "麓七",
+			"songid": 218639113,
+			"songname": "光年之外"
+		}],
+		"topID": 36,
+		"type": 0,
+		"update_key": "2019_3"
+	}],
+	"Type": 1
+}, {
+	"GroupID": 1,
+	"GroupName": "全球榜",
+	"List": [{
+		"ListName": "美国公告牌榜",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421145230.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421145216.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160203105317.jpg",
+		"listennum": 6576880,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421145122.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20141126200216.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20130725151119.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707170242.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001zqV514Ghj3r.jpg",
+		"showtime": "2019-01-29",
+		"songlist": [{
+			"singerid": 38418,
+			"singername": "Ariana Grande",
+			"songid": 227975948,
+			"songname": "7 rings (Explicit)"
+		}, {
+			"singerid": 346761,
+			"singername": "Halsey",
+			"songid": 217874624,
+			"songname": "Without Me (Explicit)"
+		}, {
+			"singerid": 968065,
+			"singername": "Post Malone/Swae Lee",
+			"songid": 218485472,
+			"songname": "Sunflower"
+		}],
+		"topID": 108,
+		"type": 1,
+		"update_key": "2019_5"
+	}, {
+		"ListName": "美国iTunes榜",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421145343.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421145350.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160203105331.jpg",
+		"listennum": 2385860,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421145408.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20141126200025.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20130725151230.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707170309.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002rVUiT0f9emD.jpg",
+		"showtime": "2019-01-22",
+		"songlist": [{
+			"singerid": 38418,
+			"singername": "Ariana Grande",
+			"songid": 227975948,
+			"songname": "7 rings (Explicit)"
+		}, {
+			"singerid": 13769,
+			"singername": "Lady Gaga/Bradley Cooper",
+			"songid": 217529927,
+			"songname": "Shallow"
+		}, {
+			"singerid": 968065,
+			"singername": "Post Malone/Swae Lee",
+			"songid": 218485472,
+			"songname": "Sunflower"
+		}],
+		"topID": 123,
+		"type": 1,
+		"update_key": "2019_2"
+	}, {
+		"ListName": "韩国Mnet榜",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421153707.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421153700.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150727170601.jpg",
+		"listennum": 1803390,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421153637.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20141126200244.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20130725151013.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707170222.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002QNxmf0AeqvD.jpg",
+		"showtime": "2019-01-28",
+		"songlist": [{
+			"singerid": 23360,
+			"singername": "이소라 (李素罗)/SUGA (슈가)",
+			"songid": 228003567,
+			"songname": "신청곡"
+		}, {
+			"singerid": 965448,
+			"singername": "폴킴 (Paul Kim)",
+			"songid": 227873741,
+			"songname": "초록빛"
+		}, {
+			"singerid": 1224868,
+			"singername": "김청하 (金请夏)",
+			"songid": 226748972,
+			"songname": "벌써 12시"
+		}],
+		"topID": 106,
+		"type": 1,
+		"update_key": "2019_4"
+	}, {
+		"ListName": "英国UK榜",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421145456.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421145449.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160203105444.jpg",
+		"listennum": 1791930,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421145430.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20141126195941.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20130725151329.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707170327.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000JRDkV1t4Lpt.jpg",
+		"showtime": "2019-01-25",
+		"songlist": [{
+			"singerid": 38418,
+			"singername": "Ariana Grande",
+			"songid": 227975948,
+			"songname": "7 rings (Explicit)"
+		}, {
+			"singerid": 1520235,
+			"singername": "Ava Max",
+			"songid": 215641395,
+			"songname": "Sweet but Psycho"
+		}, {
+			"singerid": 157918,
+			"singername": "Sam Smith/Normani",
+			"songid": 227508475,
+			"songname": "Dancing With A Stranger"
+		}],
+		"topID": 107,
+		"type": 1,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "日本公信榜",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421144947.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421144938.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160203105539.jpg",
+		"listennum": 521640,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421145005.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20141126200319.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20130725150906.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707170159.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000tVn0j0Ni0w1.jpg",
+		"showtime": "2019-01-23",
+		"songlist": [{
+			"singerid": 9495,
+			"singername": "V6",
+			"songid": 228006997,
+			"songname": "Super Powers"
+		}, {
+			"singerid": 202403,
+			"singername": "天月-あまつき-",
+			"songid": 227065613,
+			"songname": "恋人募集中(仮)"
+		}, {
+			"singerid": 29502,
+			"singername": "NMB48 (エヌエムビー フォーティエイト)",
+			"songid": 218192477,
+			"songname": "僕だって泣いちゃうよ"
+		}],
+		"topID": 105,
+		"type": 1,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "香港电台榜",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421153338.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421153330.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160203110005.jpg",
+		"listennum": 521646,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421153309.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20141126200734.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20130725150113.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707170015.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003ESX3c01mKkM.jpg",
+		"showtime": "2019-01-26",
+		"songlist": [{
+			"singerid": 110,
+			"singername": "周国贤",
+			"songid": 222558961,
+			"songname": "守口如瓶"
+		}, {
+			"singerid": 11776,
+			"singername": "钟舒漫",
+			"songid": 224993441,
+			"songname": "黑人问号"
+		}, {
+			"singerid": 184290,
+			"singername": "吴业坤/田蕊妮",
+			"songid": 217811054,
+			"songname": "大女人主义"
+		}],
+		"topID": 113,
+		"type": 1,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "香港商台榜",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421153442.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421153436.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160203110836.jpg",
+		"listennum": 356616,
+		"pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140421153416.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20141126200450.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20130725150525.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707170140.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002ciBvu3hs9m3.jpg",
+		"showtime": "2019-01-26",
+		"songlist": [{
+			"singerid": 47,
+			"singername": "林忆莲",
+			"songid": 225556282,
+			"songname": "沙文"
+		}, {
+			"singerid": 11776,
+			"singername": "钟舒漫",
+			"songid": 224993441,
+			"songname": "黑人问号"
+		}, {
+			"singerid": 19597,
+			"singername": "陈健安",
+			"songid": 226851133,
+			"songname": "一吻穿越四十六亿岁"
+		}],
+		"topID": 114,
+		"type": 1,
+		"update_key": "2019_3"
+	}, {
+		"ListName": "台湾Hito中文榜",
+		"MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/332670.jpg",
+		"MacListPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/332672.jpg",
+		"headPic_v12": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/332673.jpg",
+		"listennum": 400521,
+		"pic": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/332666.jpg",
+		"pic_Detail": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/332669.jpg",
+		"pic_h5": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/332656.jpg",
+		"pic_v11": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/332667.jpg",
+		"pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003IawSY1TMu0b.jpg",
+		"showtime": "2019-01-25",
+		"songlist": [{
+			"singerid": 227,
+			"singername": "蔡依林",
+			"songid": 224116263,
+			"songname": "甜秘密"
+		}, {
+			"singerid": 112,
+			"singername": "蔡健雅",
+			"songid": 225394163,
+			"songname": "半途 Halfway"
+		}, {
+			"singerid": 200521,
+			"singername": "周兴哲",
+			"songid": 226808103,
+			"songname": "怎么了"
+		}],
+		"topID": 103,
+		"type": 1,
+		"update_key": "2019_3"
+	}],
+	"Type": 0
+}])
